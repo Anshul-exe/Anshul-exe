@@ -3,11 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-exe&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-exe" /> </p>
 
 - 🌱 I’m currently learning **Java Script**
-
 - 💬 Ask me about **Linux**
-
 - 📫 How to reach me **anshulchauhan1224@gmail.com**
-
 - ⚡ Fun fact **Obsession with music made me an amateur beatboxer**
 ###
 
