@@ -40,7 +40,8 @@
 
 
 
-### Watch snake eating my contribution (he might die from hunger): ###
+### Here's a snake eating my contributions: ###
+#### P.S- He might die from hunger: ####
 ![snake gif](https://github.com/Anshul-exe/Anshul-exe/blob/output/github-contribution-grid-snake.svg)
 
 
