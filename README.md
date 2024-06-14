@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java Script**
 - 💬 Ask me about **Linux**
-- 📫 How to reach me **anshulchauhan1224@gmail.com**
+- 📫 How to reach me **anshulchauhanworks@gmail.com**
 - ⚡ Fun fact **Obsession with music made me an amateur beatboxer**
 ###
 
