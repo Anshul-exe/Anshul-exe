@@ -38,8 +38,9 @@
 </p>
 </div>
 
-
-
-### Here's a snake eating my contributions: ###
+<!-- ### Here's a snake eating my contributions: ###
 ![snake gif](https://github.com/Anshul-exe/Anshul-exe/blob/output/github-contribution-grid-snake.svg)
-#### P.S- He might die from hunger: ####
+#### P.S- He might die from hunger: #### -->
+
+![My GitHub Game](game.gif)
+#### P.S. That man is playing Galaga!
