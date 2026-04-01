@@ -1,3 +1,4 @@
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 <h1 align="center">Hi 👋, I'm Anshul Singh Chauhan</h1>
 <h3 align="center">A DevOps & Cloud Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul-exe&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-exe" /> </p>
